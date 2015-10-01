@@ -57,12 +57,11 @@ paper-tabs {
 paper-tabs paper-tab.iron-selected {
   color: #ffff8d;
 }
-
+/*
 iframe div#messageToolTipDiv {
   background-color: yellow !important;
-  
 }
-
+*/
 .outer {
   width: 100%;
   text-align: center;
