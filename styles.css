@@ -58,7 +58,8 @@ paper-tabs paper-tab.iron-selected {
   color: #ffff8d;
 }
 
-iframe {
+iframe div#messageToolTipDiv {
+  background-color: yellow !important;
   
 }
 
